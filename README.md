@@ -3,7 +3,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Ensure Golang and mySQL have been installed on your device
+Ensure Golang have been installed on your device
 
 ### Installation
 
